@@ -56,9 +56,13 @@ h4{
     color:#000000
 }
 
-.post > .date{
+.post > .date,
+.post > .actions
+{
     float: right;
 }
+
+
 
 .btn-secondary,
 .btn-secondary:visited{
